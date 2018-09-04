@@ -11,12 +11,9 @@ html,
 body,
 header,
 #intro {
-  
+  height: 85%;
 }
 
-#intro {
-    background: url("")no-repeat center;
-}
 
 
 @font-face {
