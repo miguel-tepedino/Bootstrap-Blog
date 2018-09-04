@@ -11,7 +11,7 @@ html,
 body,
 header,
 #intro {
-  height: 85%;
+  height: 87%;
 }
 
 
@@ -36,5 +36,7 @@ main,
 }
 
 @media (max-width: 450px){
-    
+    #intro {
+        height: 100%;
+    }
 }
