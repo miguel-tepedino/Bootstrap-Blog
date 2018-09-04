@@ -11,11 +11,11 @@ html,
 body,
 header,
 #intro {
-    height: 100%;
+  
 }
 
 #intro {
-    background: url("../img/makeupandbeautyblog-logo.gif")no-repeat center center;
+    background: url("")no-repeat center;
 }
 
 
